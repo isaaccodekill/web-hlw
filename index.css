@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    padding: 30px;
+}
+
+a.navlink {
+    color: white;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav{
+    text-align: center;
+}
+
+h1{
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+p.main{
+    font-size: 50px;
+}
+
+h1.profileHeader{
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.reactText{
+    font-weight: bold;
+    color: #61DAFB;
+}
+
+.goText{
+    font-weight: bold;
+    color: #007D9C;   
+}
+
+.javascriptText{
+    font-weight: bold;
+    background-color: #F7E032;
+    color: #39373A;
+}
+
+.pyText{
+    font-weight: bold;
+    color: #4281B2;
+}
+
+.thonText{
+    font-weight: bold;
+    color: #FFE17F;
+}
+
+.javaText{
+    font-weight: bold;
+    color: #F0931C; 
+}
+
+.contactText{
+    font-size: 50px;
+}
